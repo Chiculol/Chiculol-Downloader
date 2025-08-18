@@ -1,0 +1,18 @@
+# Ambiente Virtual
+.venv
+venv/
+__pycache__/
+
+# Pasta de Downloads
+downloads/
+
+# Ficheiros sensíveis
+youtube-cookies.txt
+
+# Ficheiros de IDEs (ex: PyCharm)
+.idea/
+
+# Ficheiros de build do PyInstaller (caso existam)
+dist/
+build/
+*.spec
